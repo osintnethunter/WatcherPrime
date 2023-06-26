@@ -6,9 +6,11 @@ Read the installation guide below otherwise the program wont work.
 
 # WatcherPrime
 
-Automatically hack vulnerable webcams, IPcams, security cameras, CCTVs, doorbell cameras, etc., from all ovet the internet with just a few clicks. 
+Automatically hack vulnerable webcams, IPcams, security cameras, CCTVs, doorbell cameras, etc., from all over the internet with just a few clicks. 
 
-This program was made using python3.10, some Payloads from Metasploit, lots of free time and definitely too much coffee.
+# How It Works
+WatcherPrime automatically scans the internet for vulnerable devices and then hacks these devices using the payloads.
+This program was made using python3.10, some Metasploit payloads, lots of free time and definitely too much coffee.
 
 
 ## Screenshots
