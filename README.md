@@ -20,7 +20,7 @@ This program was made using python3.10, some Metasploit payloads, lots of free t
 
 ## Installation
 
-Since the program uses several metasploit payloads for obvious reasons windows thinks its a virus.
+Since the program uses several metasploit payloads for obvious reasons windows defender mistakes it as a virus.
 Therefore to install it:
 
 1- Temporarily disable Windows Defender from your settings.
