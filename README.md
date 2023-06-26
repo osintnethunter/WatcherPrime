@@ -1,25 +1,24 @@
+# IMPORTANT NOTE
+Read the installation guide below otherwise the program wont work.
+
+![Logo](https://github.com/beelz3bubs/WatcherPrime/blob/main/Logo.jpg?raw=true)
+
+
 # WatcherPrime
-Automatically hack vulnerable webcams, IPcams, security cameras, CCTVs, doorbell cameras, etc., with just a few clicks.
 
+Automatically hack vulnerable webcams, IPcams, security cameras, CCTVs, doorbell cameras, etc., from all ovet the internet with just a few clicks. 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-# WatcherPrime
-
-Automatically hack vulnerable webcams, IPcams, security cameras, CCTVs, doorbell cameras, etc., with just a few clicks. 
-
-This program was made using python3.9, some Payloads from Metasploit, lots of free time and definitely too much coffee.
+This program was made using python3.10, some Payloads from Metasploit, lots of free time and definitely too much coffee.
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/icarus012/WatcherPrime/blob/main/Screenshot.jpg?raw=true)
+![App Screenshot](https://github.com/beelz3bubs/WatcherPrime/blob/main/Screenshot.jpg?raw=true)
 
 
 ## Installation
 
-The program uses several metasploit payloads and for obvious reasons windows thinks its a virus.
+Since the program uses several metasploit payloads for obvious reasons windows thinks its a virus.
 Therefore to install it:
 
 1- Temporarily disable Windows Defender from your settings.
@@ -42,10 +41,10 @@ By using this software, you automatically agree to the above.
 
 ## Author
 
-Icarus012
+Beelz3bubs
 
 ## License
 
-This project is licensed under the MIT License - see the [License](https://choosealicense.com/licenses/mit/) for details.
+This project is licensed under the MIT License - see the [License](https://github.com/beelz3bubs/WatcherPrime/blob/main/LICENSE) for details.
 
 
